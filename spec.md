@@ -1,0 +1,21 @@
+- [] list items
+- [] add new item
+- [] edit item
+- [] persisting to storage
+- [] search
+  - [] basic title match
+  - [] fuzzy search (full text)
+  - [] search by advanced queries
+    - [] filter by createdAt
+    - [] filter by lastModifiedAt
+    - [] filter by status (open | completed | deleted)
+- [] sync search to url
+- [] sort
+  - [] by createdAt (D|A)
+  - [] by lsatModifiedAt (D|A)
+- [] Sync sort to url
+- [] Categories
+- [] Priority (urgent) tasks
+- [] D&D for changing categories
+- [] Keyboard integration
+- [] offline first (optimistic updates)
